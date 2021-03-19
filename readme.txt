@@ -9,3 +9,4 @@ Creating a new branch is quick AND simple
 >>>>>>> feature1
 management strategy
 three here
+fifth here
